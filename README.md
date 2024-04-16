@@ -17,6 +17,8 @@ The project was performed with the following tools
 Run the train.py file to get the resulting plot and visualization
 
 ## UNet
+<p align="center"> <img src="https://github.com/AkshayLaddha943/KITTI-SemanticSegmentation/blob/main/output/UNet.png" height="400" width=1200" alt="Network">
+<br/>
 
 ## Output
 <p align="center"> <img src="https://github.com/AkshayLaddha943/KITTI-SemanticSegmentation/blob/main/output/kitti-segmentmap.PNG" height="400" width=1200" alt="Output">

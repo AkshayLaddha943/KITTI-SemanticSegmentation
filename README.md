@@ -21,5 +21,5 @@ Run the train.py file to get the resulting plot and visualization
 <br/>
 
 ## Output
-<p align="center"> <img src="https://github.com/AkshayLaddha943/KITTI-SemanticSegmentation/blob/main/output/kitti-segmentmap.PNG" height="400" width=1200" alt="Output">
+<p align="center"> <img src="https://github.com/AkshayLaddha943/KITTI-SemanticSegmentation/blob/main/output/kitti-segmentmap.PNG" height="400" width=1400" alt="Output">
 <br/>

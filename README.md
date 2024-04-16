@@ -19,5 +19,5 @@ Run the train.py file to get the resulting plot and visualization
 ## UNet
 
 ### Output
-<p align="left"> <img src="https://github.com/AkshayLaddha943/KITTI-SemanticSegmentation/blob/main/output/kitti-segmentmap.PNG" height="500" width=500" alt="Output">
+<p align="left"> <img src="https://github.com/AkshayLaddha943/KITTI-SemanticSegmentation/blob/main/output/kitti-segmentmap.PNG" height="500" width=1000" alt="Output">
 <br/>
